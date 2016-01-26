@@ -6,5 +6,8 @@ public class Hello {
 		// TODO Auto-generated method stub
 		System.out.println("NUEVA CLASE HELLO");
 	}
-
+	
+	private void funcionPrueba(){
+		
+	}
 }
