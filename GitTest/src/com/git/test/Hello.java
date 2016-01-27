@@ -8,7 +8,7 @@ public class Hello {
 		System.out.println("NUEVA CLASE Alejo");
 	}
 	
-	private void funcionPrueba(){
+	private void funcionueba(){
 		
 	}
 }
