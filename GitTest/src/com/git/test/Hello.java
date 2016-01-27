@@ -7,5 +7,8 @@ public class Hello {
 		System.out.println("NUEVA CLASE HELLO");
 		System.out.println("NUEVA CLASE Alejo");
 	}
-
+	
+	private void funcionPrueba(){
+		
+	}
 }
